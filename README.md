@@ -6,5 +6,5 @@ JavaToUML is a very specific utility, that takes a .java file and coverts its co
 ## Usage
 
 ```
-parse.exe <path/to/javafile.java>
+javaToUML.exe <path/to/javafile.java>
 ```
